@@ -1,7 +1,10 @@
-class Anil{
 
-public static void main(String agrs[]){
-	
- System.out.print("Anshu");
- }
+public class Anil {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.print("b");
+
+	}
+
 }
