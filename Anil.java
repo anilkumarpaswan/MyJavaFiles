@@ -1,10 +1,8 @@
+class Anil
+{
+public static void main(String[]arg)
+{
 
-public class Anil {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.print("b");
-
-	}
-
+System.out.print("Window");
+}
 }
